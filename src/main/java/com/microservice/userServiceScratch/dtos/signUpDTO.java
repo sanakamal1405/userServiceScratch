@@ -13,4 +13,5 @@ public class signUpDTO {
     String name;
     String hashedPassword;
     List<Roles> roles;
+    String email;
 }
